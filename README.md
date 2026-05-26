@@ -6,3 +6,8 @@ A curated list for Base builders & degens.
 - Base Scan
 - Base Bridge
 - Coinbase Wallet
+
+## Communities
+- Warpcast
+- Farcaster
+- Base Builders
