@@ -17,3 +17,8 @@ A curated list for Base builders & degens.
 - Base Docs
 - OnchainKit
 - Smart Wallets
+
+## Airdrop/Alpha
+- Active campaigns
+- Base ecosystem projects
+- Early builder programs
